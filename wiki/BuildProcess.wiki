@@ -1,4 +1,4 @@
-#summary Parts List and Instructions to Build
+#summary Instructions to Build
 
 = Parts =
 
