@@ -6,4 +6,6 @@ This project started out with a simple idea, create a device that could be place
 
 +++++++ PICTURE OF FINAL PROJECT +++++++
 
+= The Next Step =
+
 Although Version 1.0 of the Automated Bartender fulfilled the goals set forth, there are still different features that I would like to add to Version 2.0.  The limitation that held this version back was cost.  This project was created on a tight budget but with the revenue that is obviously going to be generated from the sales of this device, the sky is the limit for the next version.  First of all I would like to use a touchscreen instead of a keypad.  Doing this would cost close to an extra $100 because an Arduino Mega is needed for the SainSmart 3.2" TFT LCD Display (cheapest touchscreen I could find) and then a ribbon cable to connect them.  I figured with Version 1.0 since a keypad could perform just as well as a touchscreen but only cost $4 it was the way to go.  Also with Version 2.0 I would like to find a way to chill the bottles.  For Version 1.0 I had gotten a thermoelectric cooler and a heatsink and fan but found that this did not have the required energy to chill six bottles.  
