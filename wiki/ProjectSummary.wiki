@@ -9,11 +9,17 @@ This project started out with a simple idea, create a device that could be place
 = Features =
 
 1) 6 bottle holders
+
 2) 3 for different types of alcohol and 3 for different mixers
+
 3) Easy keypad system for ordering drinks
+
 4) Drinks of different strengths (1, 2, or 3 shots)
+
 5) Ability to pour shots without mixing other drinks
+
 6) Ability to pour only mixers if desired
+
 7) Each drink is designed to fill up a solo cup
 
 = How it Works =
