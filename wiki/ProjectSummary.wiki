@@ -1,13 +1,7 @@
-#summary One-sentence summary of this page.
+#summary About the Project
 
 = Introduction =
 
-Add your content here.
+This project started out with a simple idea, create a device that could be placed in a home or anyplace where people would like to have a drink but where this is no bartender to make them (although it could also serve as a tool to assist bartenders).  Through many design changes and careful considerations this idea has been materialized in the device that you see below:
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
++++++++ PICTURE OF FINAL PROJECT +++++++
