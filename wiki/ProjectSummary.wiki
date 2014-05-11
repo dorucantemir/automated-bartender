@@ -6,9 +6,19 @@ This project started out with a simple idea, create a device that could be place
 
 +++++++ PICTURE OF FINAL PROJECT +++++++
 
+= Features =
+
+* 6 bottle holders
+* 3 for different types of alcohol and 3 for different mixers
+* Easy keypad system for ordering drinks
+* Drinks of different strengths (1, 2, or 3 shots)
+* Ability to pour shots without mixing other drinks
+* Ability to pour only mixers if desired
+* Each drink is designed to fill up a solo cup
+
 = How it Works =
 
-The Automated Bartender features up to six different bottle holders, three for different types of alcohol and three for different mixers.  Valves connected to servos control the flow of the liquid.  
+There are two different codes I have made for controlling which drink is poured.  One is just a simple two number code for each drink possibility that has to be memorized (or read from a sheet) by  the user.  The other involves a 3 button combination where the first button specifies which alcohol to use, the second button specifies how many shots of that alcohol (up to 3), and the third button is which mixer to use.  When the desired drink combination is input a servo connected to a valve is opened for a set amount of time to let a certain amount of liquid to flow into the cup.
  
 = The Next Step =
 
