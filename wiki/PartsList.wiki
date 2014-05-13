@@ -2,5 +2,54 @@
 
 = Parts Needed =
 
-1) Arduino Uno 
-2) 12 button Keypad
+1.) Arduino Uno
+
+2.) 12 button keypad
+
+3.) 6 servos
+
+4.) 12 8mm Bore 5/16" PP Miniature Stopcock
+
+5.) 22 Nylon clamps
+
+6.) 7 2-in x 2-in L brackets
+
+7.) 4 5-in x 6-in shelf brackets
+
+8.) 12 cup hooks
+
+9.) 6 rubber bands
+
+10.) 3/8" Screws (Need a lot of them)
+
+11.) 6 220-51 liquor pourers 
+
+12.) Silicone sealant
+
+13.) 6 bottles
+
+14.) 6 straws
+
+15.) 30 in of 1/8" ID Vinyl tubing
+
+16.) 12 in of 3/8" ID Vinyl tubing
+
+17.) 68 in of 1/4" ID Vinyl tubing
+
+18.) Hot glue
+
+19.) Wire (both insulated and non-insulated)
+
+20.) Power supply (12 V)
+
+21.) DC-DC converter (12 V - 5 V)
+
+22.) Breadboard
+
+23.) 2.1 mm Barrel plug
+
+24.) 48" x 11" x 3/4" board
+
+25.) 36" x 24" x 3/4" board
+
+26.) 2 30" x 4" x 3/4" boards
