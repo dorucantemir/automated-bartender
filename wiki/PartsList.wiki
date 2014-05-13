@@ -1,13 +1,6 @@
 #summary List of All the Parts Needed
 
-= Introduction =
+= Parts Needed =
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+1) Arduino Uno
+2) 12 button Keypad
