@@ -3,5 +3,4 @@
 = Parts Needed =
 
 1) Arduino Uno
-
 2) 12 button Keypad
