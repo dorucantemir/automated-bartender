@@ -1,5 +1,15 @@
 #summary Instructions to Build
 
-= Parts =
-
 = Instructions =
+
+1.) Start by making the bottles.  To do this cut 12 1 inch pieces of the 3/8" ID Vinyl tubing, 18 1 inch pieces of the 1/4" ID Vinyl tubing, and 6 5 inch pieces of the 1/8" ID Vinyl tubing.
+
+2.) For each bottle put a 1 inch piece of the 3/8" ID Vinyl tubing on the end of the liquor pourer, then a 1 inch piece of the 1/4" ID Vinyl tubing inside of that.  A valve will then be put into the tubing and on the end of the vavle put a combination of 1 inch 1/4" ID Vinyl tubing, 1 inch 3/8" ID Vinyl tubing, and another 1/4" ID Vinyl tubing.  This tubing will be what connects to the valve that the servo controls.
+
+3.) On the end of the liquor pourer that goes into the bottle put a 5 inch piece of the 1/8" ID Vinyl tubing and then put a straw on the end of that.  This allows air to flow into the bottle while it is being poured.
+
+The finished topper should like like this:
+<a href="http://imgur.com/aTunp0L"><img src="http://i.imgur.com/aTunp0L.png" title="Hosted by imgur.com" /></a>
+
+And all together they should look like:
+<a href="http://imgur.com/qP6Mguq"><img src="http://i.imgur.com/qP6Mguq.jpg" title="Hosted by imgur.com" /></a>
