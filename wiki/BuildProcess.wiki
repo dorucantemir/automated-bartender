@@ -31,6 +31,7 @@ The servo head and valve when attached should look like:
 8.) In the other 30" x 4" x 3/4" board drill 6 1.5 inch holes, 4 inches apart.  Then cut a half inch slit to the hole.  Attach both of these to the board with the valves attached using the L brackets.  Four are needed on the top board and three on the bottom.  The height of the board with the square cuts should be so that the servos can sit on them and turn the valves and the board with the holes should hold the bottles and have the top connect to the valve.
 
 The attached boards should look like:
+
 <a href="http://imgur.com/IvI1sDZ"><img src="http://i.imgur.com/IvI1sDZ.jpg" title="Hosted by imgur.com" /></a>
 
 9.)  Drill small holes in the board with the servos on it and tie the servos down with wire.  Also drill holes in the board with the valves attached so the wires of the servos can be fed through.  Both of these things can also be seen in the above picture.
