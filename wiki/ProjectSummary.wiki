@@ -28,6 +28,6 @@ There are two different codes I have made for controlling which drink is poured.
 
 = Video =
 
-+++++++ VIDEO OF FINAL PROJECT +++++++
+<iframe width="560" height="315" src="//www.youtube.com/embed/GtYL8eGFU4k" frameborder="0" allowfullscreen></iframe>
  
 = Challenges =
