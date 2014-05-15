@@ -6,7 +6,7 @@
 
 2.) For each bottle put a 1 inch piece of the 3/8" ID Vinyl tubing on the end of the liquor pourer, then a 1 inch piece of the 1/4" ID Vinyl tubing inside of that.  A valve will then be put into the tubing and on the end of the vavle put a combination of 1 inch 1/4" ID Vinyl tubing, 1 inch 3/8" ID Vinyl tubing, and another 1/4" ID Vinyl tubing.  This tubing will be what connects to the valve that the servo controls.
 
-3.) On the end of the liquor pourer that goes into the bottle put a 5 inch piece of the 1/8" ID Vinyl tubing and then put a straw on the end of that.  This allows air to flow into the bottle while it is being poured.
+3.) On the end of the liquor pourer that goes into the bottle put a 5 inch piece of the 1/8" ID Vinyl tubing and then put a straw on the end of that.  This allows air to flow into the bottle while it is being poured.  Then use the silicone sealant to keep it from leaking.
 
 The finished topper should like like this:
 
@@ -15,3 +15,52 @@ The finished topper should like like this:
 And all together they should look like:
 
 <a href="http://imgur.com/qP6Mguq"><img src="http://i.imgur.com/qP6Mguq.jpg" title="Hosted by imgur.com" /></a>
+
+4.) The next step is to attach the servo heads to the valve.  To do this start by grinding down the top of the valve so that it is flat, then saw a groove into the servo head so that the valve fits into the groove.
+
+5.) Drill small holes into the servo head and the valve and use the non-insulated wire to attach them together.  Make sure that the axis of the valve and the axis of the servo are aligned.  Hot glue that pieces so that the servo head is securely attached to the valve.
+
+The servo head and valve when attached should look like:
+
+<a href="http://imgur.com/fvLBiM7"><img src="http://i.imgur.com/fvLBiM7.jpg" title="Hosted by imgur.com" /></a>
+
+6.) Attach the valves with Nylon clamps to the 36" x 24" x 3/4" board 4 inches apart at a height where a cup could fit under when the tubing is added.
+
+7.) Cut six, 3" x 1.5" squares into one of the 30" x 4" x 3/4" boards.  These allow the servos to sit and turn the valves.  This can be seen in the above picture.
+
+8.) In the other 30" x 4" x 3/4" board drill 6 1.5 inch holes, 4 inches apart.  Then cut a half inch slit to the hole.  Attach both of these to the board with the valves attached using the L brackets.  Four are needed on the top board and three on the bottom.  The height of the board with the square cuts should be so that the servos can sit on them and turn the valves and the board with the holes should hold the bottles and have the top connect to the valve.
+
+The attached boards should look like:
+
+<a href="http://imgur.com/IvI1sDZ"><img src="http://i.imgur.com/IvI1sDZ.jpg" title="Hosted by imgur.com" /></a>
+
+9.)  Drill small holes in the board with the servos on it and tie the servos down with wire.  Also drill holes in the board with the valves attached so the wires of the servos can be fed through.  Both of these things can also be seen in the above picture.
+
+10.)  Cut a slot into the board with the valves the size of the cup, and make the same sized cut in the same place on the 48" x 11" x 3/4" board.
+
+11.)  Cut the rest of the 1/4" ID Vinyl tubing into two 12 inch pieces, two 8 inch pieces, and two 5 inch pieces.  Use the Nylon clamps to hold the tubing so that it runs to the cut made for the cup.  The longer pieces go on the out side.
+
+This should look like:
+
+<a href="http://imgur.com/DUNUhRc"><img src="http://i.imgur.com/DUNUhRc.jpg" title="Hosted by imgur.com" /></a>
+
+12.)  Place the 12 button keypad on the side of of the board with the valves.  Be sure to drill holes so that the wires can go to the back of the board.
+
+The keypad attached looks like:
+
+<a href="http://imgur.com/0qoyNlN"><img src="http://i.imgur.com/0qoyNlN.jpg" title="Hosted by imgur.com" /></a>
+
+13.)  Assemble the circuit as shown in the schematic.
+
+Actual picture of the circuit looks like:
+
+<a href="http://imgur.com/J27IVTF"><img src="http://i.imgur.com/J27IVTF.jpg" title="Hosted by imgur.com" /></a>
+
+14.)  Place 2 cup hooks on either side of where a bottle will be.  A rubber band will then be used to hold the bottle.
+
+15.)  Attach the two boards together with the shelf brackets.
+
+
+When done it will look like:
+
+<a href="http://imgur.com/XyowN68"><img src="http://i.imgur.com/XyowN68.jpg" title="Hosted by imgur.com" /></a>
