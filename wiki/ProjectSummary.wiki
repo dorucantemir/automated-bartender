@@ -4,7 +4,7 @@
 
 This project started out with a simple idea, create a device that could be placed in a home or anyplace where people would like to have a drink but where this is no bartender to make them (although it could also serve as a tool to assist bartenders).  Through many design changes and careful considerations this idea has been materialized in the device that you see below:
 
-<wiki:video url="https://www.youtube.com/watch?v=GtYL8eGFU4k"/>
+<a href="http://imgur.com/exWBtlU"><img src="http://i.imgur.com/exWBtlU.jpg" title="Hosted by imgur.com" /></a>
 
 = Features =
 
@@ -28,6 +28,6 @@ There are two different codes I have made for controlling which drink is poured.
 
 = Video =
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/GtYL8eGFU4k" frameborder="0" allowfullscreen></iframe>
+<wiki:video url="https://www.youtube.com/watch?v=GtYL8eGFU4k"/>
  
 = Challenges =
