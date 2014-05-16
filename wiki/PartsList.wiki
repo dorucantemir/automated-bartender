@@ -8,19 +8,19 @@
 
 3.) 6 servos
 
-4.) 12 8mm Bore 5/16" PP Miniature Stopcock
+4.) 12 8mm bore 5/16" PP miniature stopcock valves
 
 5.) 22 Nylon clamps
 
 6.) 7 2-in x 2-in L brackets
 
-7.) 4 5-in x 6-in shelf brackets
+7.) 4 5-in x 5-in shelf brackets
 
 8.) 12 cup hooks
 
 9.) 6 rubber bands
 
-10.) 3/8" screws (Need a lot of them)
+10.) 3/8" screws (need a lot of them)
 
 11.) 6 220-51 liquor pourers 
 
@@ -46,7 +46,7 @@
 
 22.) Breadboard
 
-23.) 2.1 mm Barrel plug
+23.) 2.1 mm barrel plug
 
 24.) 48" x 11" x 3/4" board
 
