@@ -32,7 +32,7 @@ The servo head and valve when attached should look like:
 
 The attached boards should look like:
 
-<a href="http://imgur.com/IvI1sDZ"><img src="http://i.imgur.com/IvI1sDZ.jpg" title="Hosted by imgur.com" /></a>
+<a href="http://imgur.com/xTFVVy5"><img src="http://i.imgur.com/xTFVVy5.png" title="Hosted by imgur.com" /></a>
 
 9.)  Drill small holes in the board with the servos on it and tie the servos down with wire.  Also drill holes in the board with the valves attached so the wires of the servos can be fed through.  Both of these things can also be seen in the above picture.
 
