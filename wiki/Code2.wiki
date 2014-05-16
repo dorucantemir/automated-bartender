@@ -3,7 +3,6 @@
 == Code 2 ==
 
 <code language = "arduino">
-
 /*
 Cooper Dieterle
 ECE 387
